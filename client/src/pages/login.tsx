@@ -49,7 +49,7 @@ const LoginPage: React.FunctionComponent<IPageProps> = (props) => {
                             }
                         })
 
-                        /** If we get a token, auth with the backend */
+                    /** If we get a token, auth with the backend */
                     } catch (error) {
                         setError('Invalid token.');
                         logging.error(error);

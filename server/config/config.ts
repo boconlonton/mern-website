@@ -13,7 +13,7 @@ const config = {
     },
     server: {
         host: 'localhost',
-        port: 1337
+        port: 8001
     }
 };
 

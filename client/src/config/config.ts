@@ -9,8 +9,8 @@ const config = {
     },
     server: {
         host: 'localhost',
-        port: 1337,
-        url: 'http://localhost:1337'
+        port: 8001,
+        url: 'http://localhost:8001'
     }
 };
 
