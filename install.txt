@@ -1,0 +1,8 @@
+For client application:
+- npm install
+- npm start
+
+For server application:
+- npm install
+- npm build
+- npm start
